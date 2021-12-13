@@ -9,4 +9,4 @@ The purpose of this Tableau project is to provide visual analytics regarding the
 
 **Enrollments by Program Dashboard**
 
-![](https://github.com/mskhan586/OECD-Health-Care/blob/main/img/Main%20dashboard.png)
+![](https://github.com/mskhan586/Canadian-Universities-Admissions/blob/master/img/Universities%20Enrollments%20By%20Program.png)
